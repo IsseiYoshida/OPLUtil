@@ -6,7 +6,7 @@ OPLUtil: OPL Game Utility
 
 
 
-OPLUtil é uma ferramenta usada para gerenciar imagens de disco PS2 usadas no Open PlayStation 2 Loader.
+OPLUtil is a tool used to manage PS2 disk images used in the Open PlayStation 2 Loader.
 
 * [__Official Website__](https://github.com/IsseiYoshida/OPLUtil)
 * [FAQ](https://github.com/IsseiYoshida/OPLUtil/wiki/FAQ)
