@@ -10,9 +10,3 @@ OPLUtil is a tool used to manage PS2 disk images used in the Open PlayStation 2 
 
 * [__Official Website__](https://github.com/IsseiYoshida/OPLUtil)
 * [FAQ](https://github.com/IsseiYoshida/OPLUtil/wiki/FAQ)
-
-Enhancements/Bugs
------------------
-
-Please use the [GitHub issue tracker](https://github.com/IsseiYoshida/OPLUtil/issues)
-for reporting problems or suggesting new features.
